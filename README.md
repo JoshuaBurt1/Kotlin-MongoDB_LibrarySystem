@@ -2,6 +2,8 @@
 Kotlin with a local MongoDB connection
 
 //Local MongoDB Connection - only you have access to data, it is saved after each session
+/n
+
 Steps: 
 1. New Project -> Kotlin; Build System -> Gradle
 2. Download MongoDB Compass
