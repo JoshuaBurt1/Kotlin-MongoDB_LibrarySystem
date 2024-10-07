@@ -1,5 +1,5 @@
 # Kotlin-MongoDB_LibrarySystem
-Kotlin with a local MongoDB connection
+Terminal library management system using Kotlin with a local MongoDB connection
 
 //Local MongoDB Connection - only you have access to data, it is saved after each session
 
